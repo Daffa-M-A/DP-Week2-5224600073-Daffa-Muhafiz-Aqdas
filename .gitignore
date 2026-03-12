@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+README.md
+.vscode/settings.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+.vs/DP Week 2 Build/v18/DocumentLayout.json
+.vs/DP Week 2 Build/v18/DocumentLayout.backup.json
+.vs/DP Week 2 Build/v18/.suo
+.vs/DP Week 2 Build.slnx/v18/ipch/AutoPCH/259b5986c0f80c39/MAIN.ipch
+.vs/DP Week 2 Build.slnx/v18/Browse.VC.db
+.vs/DP Week 2 Build.slnx/FileContentIndex/ed47c0f4-b74e-4526-9367-92d018e1cefc.vsidx
